@@ -1,0 +1,27 @@
+# requirements.txt
+fastapi[standard]
+uvicorn
+sqlalchemy
+asyncpg
+psycopg2-binary
+python-dotenv
+streamlit
+pytesseract
+pillow
+requests
+langchain
+huggingface-hub
+opencv-python
+scikit-learn
+pdfplumber
+matplotlib
+seaborn
+torch
+transformers
+sentence-transformers
+langchain-community
+langchain-groq
+faiss-cpu
+pypdf
+langchain-huggingface
+GpuIndexIVFFlat
