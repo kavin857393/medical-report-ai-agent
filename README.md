@@ -22,10 +22,11 @@ This project primarily uses Python and depends on the following libraries:
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib/Seaborn**: For data visualization.
 - **Scikit-learn**: For machine learning algorithms.
-- **TensorFlow/PyTorch**: For deep learning models (if applicable).
+- **TensorFlow/PyTorch**: For deep learning models .
 - **SpaCy or NLTK**: For natural language processing.
-- **Flask/Django**: For creating a web interface (if applicable).
-- **Other Libraries**: Add any additional libraries specific to your project.
+- **Chainlit**: For creating user-friendly frontend.
+- **Flask/Django**: For creating a web interface(if applicable).
+
 
 ---
 
