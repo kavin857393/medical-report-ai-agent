@@ -55,18 +55,25 @@ Follow these steps to set up the project on your local machine:
      pip install -r requirements.txt
      ```
 
-4. **Run the Project**:
-   - If the project includes a script (e.g., `main.py`), you can run it as follows:
+4. **Run the Chainlit Frontend**:
+   - Make sure that chainlit is installed:
      ```bash
-     python main.py
+     pip install chainlit
+     ```
+   - Launch the Chainlit app
+     ```bash
+     chainlit run main.py
      ```
 
 5. **Additional Steps** (if applicable):
-   - If your project uses Flask/Django, provide instructions to run the server.
-   - Example for Flask:
-     ```bash
-     flask run
-     ```
+  - Provide any necessary instructions for configuring API keys, datasets, or environment variables.
+
+## **Why Use This Project?**
+- To reduce manual effort in processing medical reports.
+- To improve efficiency and accuracy in healthcare data handling.
+- To integrate AI-driven solutions in healthcare workflows with an interactive interface.
+
+
 
 ---
 
