@@ -31,7 +31,7 @@ This project primarily uses Python and depends on the following libraries:
 ---
 
 ## **Installation**
-Follow these steps to set up the project on your local machine:
+Follow these steps to set up the project on your terminal :
 
 1. **Clone the Repository**:
    ```bash
